@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Downloaded media
+downloads/
+download-MP4/
+
+# Generated exports
+exports/
+new-maps-items/
+
+# Migration data
+response.json
+mapping.json
+old-lang-*.json
+download-failed.json
+download-mp4-failed.json
+export-missing-mp3.json
+
+# html page
+htmlPageForm.html
+
+# new response
+new-response.json
+new-response-slide-id-11.json
+
+# Temp files
+temp/
+tmp/
+*.tmp
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store

@@ -1,0 +1,1023 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "id": "1",
+        "webLink": "teststory.theliverstory.au",
+        "logoImage": "/uploads/2026/0519/80d3aca34c424834ae4f38196d52b1e4.png",
+        "logoImageUrl": "https://api.theliverstory.au/file/uploads/2026/0519/80d3aca34c424834ae4f38196d52b1e4.png",
+        "backgroundImage": "/uploads/2026/0518/8d4ed6d833874386ab9f01853e90608b.png",
+        "backgroundImageUrl": "https://api.theliverstory.au/file/uploads/2026/0518/8d4ed6d833874386ab9f01853e90608b.png",
+        "themeColors": [
+            {
+                "key": "primaryThemeColor",
+                "colorName": "Primary Theme Color",
+                "colorValue": "#B32C28"
+            },
+            {
+                "key": "secondaryThemeColor",
+                "colorName": "Secondary Theme Color",
+                "colorValue": "#0E4756"
+            },
+            {
+                "key": "warningColor",
+                "colorName": "Warning Color",
+                "colorValue": "#E53935"
+            },
+            {
+                "key": "positiveColor",
+                "colorName": "Positive Color",
+                "colorValue": "#4CAF50"
+            },
+            {
+                "key": "textColor",
+                "colorName": "Text Color",
+                "colorValue": "#333333"
+            }
+        ],
+        "languages": [
+            {
+                "id": "1",
+                "languageId": "19",
+                "nativeName": "English",
+                "englishName": "English",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:13",
+                "resourceVersion": "1.0.46",
+                "previewUrl": ""
+            },
+            {
+                "id": "2",
+                "languageId": "20",
+                "nativeName": "Arrernte",
+                "englishName": "Arrernte",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:13",
+                "resourceVersion": "1.0.37",
+                "previewUrl": ""
+            },
+            {
+                "id": "3",
+                "languageId": "21",
+                "nativeName": "Murrinh Patha",
+                "englishName": "Murrinh Patha",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:14",
+                "resourceVersion": "1.0.37",
+                "previewUrl": ""
+            },
+            {
+                "id": "4",
+                "languageId": "22",
+                "nativeName": "Yolŋu ",
+                "englishName": "Yolŋu ",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:14",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "5",
+                "languageId": "23",
+                "nativeName": "Anindilyakwa",
+                "englishName": "Anindilyakwa",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:14",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "6",
+                "languageId": "24",
+                "nativeName": "warlpiri",
+                "englishName": "warlpiri",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:14",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "7",
+                "languageId": "25",
+                "nativeName": "Tiwi",
+                "englishName": "Tiwi",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:14",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "8",
+                "languageId": "26",
+                "nativeName": "Kunwinjku",
+                "englishName": "Kunwinjku",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:15",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "9",
+                "languageId": "27",
+                "nativeName": "Pitjantjatjara",
+                "englishName": "Pitjantjatjara",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:15",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "10",
+                "languageId": "28",
+                "nativeName": "Burarra",
+                "englishName": "Burarra",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:15",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "11",
+                "languageId": "29",
+                "nativeName": "Kriol",
+                "englishName": "Kriol",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:16",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            },
+            {
+                "id": "12",
+                "languageId": "30",
+                "nativeName": "Wubuy",
+                "englishName": "Wubuy",
+                "status": 1,
+                "genDate": "2026-05-27 00:50:16",
+                "resourceVersion": "1.0.26",
+                "previewUrl": ""
+            }
+        ],
+        "warning1": {
+            "id": "1",
+            "skip": 1,
+            "warningConfigs": [
+                {
+                    "languageId": "19",
+                    "nativeName": "English",
+                    "englishName": "English",
+                    "title": "Waring1",
+                    "content": "<p>Next topics are related to</p><p>women's health.<br></p><p><strong>Are you sure you want to read?</strong></p>",
+                    "audioUrl": "https://api.theliverstory.au/file/uploads/2026/0525/0419d71330c84ad0bdcca94f9f034e7e.mp3",
+                    "audioPath": "/uploads/2026/0525/0419d71330c84ad0bdcca94f9f034e7e.mp3"
+                },
+                {
+                    "languageId": "20",
+                    "nativeName": "Arrernte",
+                    "englishName": "Arrernte",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "21",
+                    "nativeName": "Murrinh Patha",
+                    "englishName": "Murrinh Patha",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "22",
+                    "nativeName": "Yolŋu ",
+                    "englishName": "Yolŋu ",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "23",
+                    "nativeName": "Anindilyakwa",
+                    "englishName": "Anindilyakwa",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "24",
+                    "nativeName": "warlpiri",
+                    "englishName": "warlpiri",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "25",
+                    "nativeName": "Tiwi",
+                    "englishName": "Tiwi",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "26",
+                    "nativeName": "Kunwinjku",
+                    "englishName": "Kunwinjku",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "27",
+                    "nativeName": "Pitjantjatjara",
+                    "englishName": "Pitjantjatjara",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "28",
+                    "nativeName": "Burarra",
+                    "englishName": "Burarra",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "29",
+                    "nativeName": "Kriol",
+                    "englishName": "Kriol",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "30",
+                    "nativeName": "Wubuy",
+                    "englishName": "Wubuy",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                }
+            ]
+        },
+        "warning2": {
+            "id": "2",
+            "skip": 0,
+            "warningConfigs": [
+                {
+                    "languageId": "19",
+                    "nativeName": "English",
+                    "englishName": "English",
+                    "title": "Warning 2",
+                    "content": "<p>Warning 2Warning 2Warning 2</p>",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "20",
+                    "nativeName": "Arrernte",
+                    "englishName": "Arrernte",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "21",
+                    "nativeName": "Murrinh Patha",
+                    "englishName": "Murrinh Patha",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                }
+            ]
+        },
+        "storyWarning": {
+            "id": "3",
+            "skip": 0,
+            "warningConfigs": [
+                {
+                    "languageId": "19",
+                    "nativeName": "English",
+                    "englishName": "English",
+                    "title": "Warning ",
+                    "content": "<p><strong>Warning:</strong> If you are worried about anything you hear in the “Hep B Story” go to the clinic to see the Doctor.</p><p><em>This story may contain voices of Aboriginal people who have passed away</em></p><p><em>Hepatitis means inflammation of the liver.&nbsp; Hepa=liver, titis=inflammation.&nbsp; It can be caused by many things</em></p><p><em>This story is about Hepatitis B.&nbsp; It is a worldwide problem that can affect anyone.</em></p>",
+                    "audioUrl": "https://api.theliverstory.au/file/uploads/2026/0522/3d5467e5bbdf4f14904f27ad20b985f2.mp3",
+                    "audioPath": "/uploads/2026/0522/3d5467e5bbdf4f14904f27ad20b985f2.mp3"
+                },
+                {
+                    "languageId": "20",
+                    "nativeName": "Arrernte",
+                    "englishName": "Arrernte",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "21",
+                    "nativeName": "Murrinh Patha",
+                    "englishName": "Murrinh Patha",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "22",
+                    "nativeName": "Yolŋu ",
+                    "englishName": "Yolŋu ",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "23",
+                    "nativeName": "Anindilyakwa",
+                    "englishName": "Anindilyakwa",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "24",
+                    "nativeName": "warlpiri",
+                    "englishName": "warlpiri",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "25",
+                    "nativeName": "Tiwi",
+                    "englishName": "Tiwi",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "26",
+                    "nativeName": "Kunwinjku",
+                    "englishName": "Kunwinjku",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "27",
+                    "nativeName": "Pitjantjatjara",
+                    "englishName": "Pitjantjatjara",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "28",
+                    "nativeName": "Burarra",
+                    "englishName": "Burarra",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "29",
+                    "nativeName": "Kriol",
+                    "englishName": "Kriol",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                },
+                {
+                    "languageId": "30",
+                    "nativeName": "Wubuy",
+                    "englishName": "Wubuy",
+                    "title": "",
+                    "content": "",
+                    "audioUrl": "",
+                    "audioPath": ""
+                }
+            ]
+        },
+        "gameWarning": {
+            "id": "9",
+            "skip": null,
+            "warningConfigs": [
+                {
+                    "languageId": "19",
+                    "nativeName": "English",
+                    "englishName": "English",
+                    "victoryText": "Well done you have kept this person’s liver healthy.",
+                    "defeatText": "You missed too many tablets! This persons liver is still sick and the Hep B is becoming resistant to the medicine. Please try again.",
+                    "defeatVoiceOver": "/uploads/2026/0526/4852739324e2403895a379e41227038e.wav",
+                    "defeatVoiceOverUrl": "https://api.theliverstory.au/file/uploads/2026/0526/4852739324e2403895a379e41227038e.wav",
+                    "victoryVoiceOver": "/uploads/2026/0526/a5c4db72cd2f4a2f9dda889162d6793e.wav",
+                    "victoryVoiceOverUrl": "https://api.theliverstory.au/file/uploads/2026/0526/a5c4db72cd2f4a2f9dda889162d6793e.wav"
+                },
+                {
+                    "languageId": "20",
+                    "nativeName": "Arrernte",
+                    "englishName": "Arrernte",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "21",
+                    "nativeName": "Murrinh Patha",
+                    "englishName": "Murrinh Patha",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "22",
+                    "nativeName": "Yolŋu ",
+                    "englishName": "Yolŋu ",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "23",
+                    "nativeName": "Anindilyakwa",
+                    "englishName": "Anindilyakwa",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "24",
+                    "nativeName": "warlpiri",
+                    "englishName": "warlpiri",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "25",
+                    "nativeName": "Tiwi",
+                    "englishName": "Tiwi",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "26",
+                    "nativeName": "Kunwinjku",
+                    "englishName": "Kunwinjku",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "27",
+                    "nativeName": "Pitjantjatjara",
+                    "englishName": "Pitjantjatjara",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "28",
+                    "nativeName": "Burarra",
+                    "englishName": "Burarra",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "29",
+                    "nativeName": "Kriol",
+                    "englishName": "Kriol",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                },
+                {
+                    "languageId": "30",
+                    "nativeName": "Wubuy",
+                    "englishName": "Wubuy",
+                    "victoryText": "",
+                    "defeatText": "",
+                    "defeatVoiceOver": "",
+                    "defeatVoiceOverUrl": "",
+                    "victoryVoiceOver": "",
+                    "victoryVoiceOverUrl": ""
+                }
+            ]
+        },
+        "acknowledgements": [
+            {
+                "id": "1",
+                "languageId": "19",
+                "nativeName": "English",
+                "englishName": "English",
+                "content": "<h6>Authors</h6><p style=\"text-align: center;\"><span style=\"font-size: 12pt;\">Jane Davies, Sarah Bukulatjpi, Suresh Sharma,<br>Vanessa Johnston, Joshua S Davis</span></p><h6>Design and development of software</h6><p><span style=\"font-size: 12pt;\">Dreamedia Creative, Darwin NT</span></p><h6>Hep B PAST team</h6><p>Cheryl Ross, Tiana Alley, Paula Binks</p><h6>Voiceovers</h6><p><span style=\"font-size: 16px;\">Tristan Etherington, Christine Mills and Arminda Mengin</span></p><h6>Funding</h6><p>The original version of this app was produced by the Menzies School of Health Research with funding support from an unrestricted educational grant from Gilead sciences. The revised version and additional languages were funded through NHMRC Hep B PAST partnership grant.</p><p>Most of all, the authors would like to thank the community members, people living with Hepatitis B and health workers from the Yolngu language group, the staff from the Hep B PAST team and associated health professionals. The interviews they provided formed the evidence base for this app and their ongoing evaluation and input into its development has been greatly appreciated. Its production would not have been possible without them.</p><p><span style=\"color: rgb(192, 57, 43);\"><strong>References</strong></span></p><p>Davies J, Bukulatjpi S, Sharma S, Davis J and Johnston V. \"Only your blood can tell the story\" - a qualitative research study using semi-structured interviews to explore the hepatitis B related knowledge, perceptions and experiences of remote dwelling Indigenous Australians and their health care providers in northern Australia. BMC Public Health2014;14(1):1233.</p><p>Retrieved from&nbsp;<a href=\"\" data-url=\"https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-1233\">This Link</a></p><p>Davies J, Bukulatjpi S, Sharma S, Caldwell L, Johnston V and Davis J. Development of a Culturally Appropriate Bilingual Electronic App About Hepatitis B for Indigenous Australians: Towards Shared Understandings.2015;4(2):e70.&nbsp;</p><p>Retrieved from&nbsp;<a href=\"\" data-url=\"https://www.researchgate.net/publication/278042538_Development_of_a_Culturally_Appropriate_Bilingual_Electronic_App_About_Hepatitis_B_for_Indigenous_Australians_Towards_Shared_Understandings\">This Link</a></p><img src=\"https://api.theliverstory.au/file/uploads/2026/0526/c31066bde93d488b885ae0939c760488.png\" alt=\"menzies.94629f14-转换自-svg.png\" data-align=\"left\" style=\"width: 25%; max-width: 100%; height: auto; margin-left: 0px; margin-right: auto;\"><p>John Mathews Building (58)<br>Royal Darwin Hospital Campus Rocklands Drv,<br>Tiwi NT 0810 Australia<br>PO Box 41096<br>Casuarina NT 0811 Australia<br>Phone (08) 8946 8600<br>Website:<a href=\"\" data-url=\"http://www.menzies.edu.au\">www.menzies.edu.au</a></p><p><strong>Thank you to all who contributed to the development of this app.</strong></p>"
+            },
+            {
+                "id": "2",
+                "languageId": "20",
+                "nativeName": "Arrernte",
+                "englishName": "Arrernte",
+                "content": "<p>Jane Davies, Sarah Bukulatjpi, Suresh Sharma, Vanessa Johnston, Joshua S Davis.</p><h6><span style=\"color: rgb(192, 57, 43);\"><strong>Design and Development of Software</strong></span></h6><ul><li><p><span style=\"font-size: 12pt;\">Dreamedia Creative, Darwin NT</span></p></li></ul><h6>Hep B PAST team</h6><p>Cheryl Ross, Tiana Alley, Paula Binks</p><h6>Translation team</h6><p>Rosemary Tipiloura, Francis Orsto, Gregoriana Parker, Debbie Coombes, Raelene Mungatopi, Rachel Minnapinni Woody Cathie Stassi</p><h6>Voiceovers</h6><p>Rachel Minnapinni Woody, Victor Punguatji</p><h6>Community Acknowledgement</h6><p>Gregoriana Parker, Mary De Chantel Apunatima Anita Tipungwuti, Rita Tipungwuti Sophia Tipuamantumirri, Ella Puruntatamem Patricia Mungatopi, Ephrianna Tipungwuti Jeannie Tipiloura, Carmel Munkara Peter Kantilla, John Tipiloura, Ronald Tipungwuti Jonathon Munkara, Dorothy Tipiloura, Charlotte Portaminni Nelsina Portaminni, Kelli Puruntatameri, Trina Cunningham Laurencia Tipiloura</p><h6></h6><h6>Funding</h6><p>The original version of this app was produced by the Menzies School of Health Research with funding support from an unrestricted educational grant from Gilead sciences. The revised version and additional languages were funded through NHMRC Hep B PAST partnership grant.</p><p>Most of all, the authors would like to thank the community members, people living with Hepatitis B and health workers from the Tiwi language group, the staff from the Hep B PAST team and associated health professionals. The interviews they provided formed the evidence base for this app and their ongoing evaluation and input into its development has been greatly appreciated. Its production would not have been possible without them.</p><p><span style=\"color: rgb(192, 57, 43);\"><strong>References</strong></span></p><p>Davies J, Bukulatjpi S, Sharma S, Davis J and Johnston V. \"Only your blood can tell the story\" - a qualitative research study using semi-structured interviews to explore the hepatitis B related knowledge, perceptions and experiences of remote dwelling Indigenous Australians and their health care providers in northern Australia. BMC Public Health2014;14(1):1233.</p><p>Retrieved from&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-1233\">This Link</a></p><p>Davies J, Bukulatjpi S, Sharma S, Caldwell L, Johnston V and Davis J. Development of a Culturally Appropriate Bilingual Electronic App About Hepatitis B for Indigenous Australians: Towards Shared Understandings.2015;4(2):e70.&nbsp;</p><p>Retrieved from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.researchgate.net/publication/278042538_Development_of_a_Culturally_Appropriate_Bilingual_Electronic_App_About_Hepatitis_B_for_Indigenous_Australians_Towards_Shared_Understandings\">This Link</a></p><p></p><p>John Mathews Building (58)<br>Royal Darwin Hospital Campus Rocklands Drv,<br>Tiwi NT 0810 Australia<br>PO Box 41096<br>Casuarina NT 0811 Australia<br>Phone (08) 8946 8600<br>Website:<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.menzies.edu.au\">www.menzies.edu.au</a></p><p><strong>Thank you to all who contributed to the development of this app.</strong></p>"
+            },
+            {
+                "id": "3",
+                "languageId": "21",
+                "nativeName": "Murrinh Patha",
+                "englishName": "Murrinh Patha",
+                "content": "<p>Jane Davies, Sarah Bukulatjpi, Suresh Sharma, Vanessa Johnston, Joshua S Davis.</p><h6><span style=\"color: rgb(192, 57, 43);\"><strong>Design and Development of Software</strong></span></h6><ul><li><p><span style=\"font-size: 12pt;\">Dreamedia Creative, Darwin NT</span></p></li></ul><h6>Hep B PAST team</h6><p>Cheryl Ross, Tiana Alley, Paula Binks</p><h6>Translation team</h6><p>Rosemary Tipiloura, Francis Orsto, Gregoriana Parker, Debbie Coombes, Raelene Mungatopi, Rachel Minnapinni Woody Cathie Stassi</p><h6>Voiceovers</h6><p>Rachel Minnapinni Woody, Victor Punguatji</p><h6>Community Acknowledgement</h6><p>Gregoriana Parker, Mary De Chantel Apunatima Anita Tipungwuti, Rita Tipungwuti Sophia Tipuamantumirri, Ella Puruntatamem Patricia Mungatopi, Ephrianna Tipungwuti Jeannie Tipiloura, Carmel Munkara Peter Kantilla, John Tipiloura, Ronald Tipungwuti Jonathon Munkara, Dorothy Tipiloura, Charlotte Portaminni Nelsina Portaminni, Kelli Puruntatameri, Trina Cunningham Laurencia Tipiloura</p><h6></h6><h6>Funding</h6><p>The original version of this app was produced by the Menzies School of Health Research with funding support from an unrestricted educational grant from Gilead sciences. The revised version and additional languages were funded through NHMRC Hep B PAST partnership grant.</p><p>Most of all, the authors would like to thank the community members, people living with Hepatitis B and health workers from the Tiwi language group, the staff from the Hep B PAST team and associated health professionals. The interviews they provided formed the evidence base for this app and their ongoing evaluation and input into its development has been greatly appreciated. Its production would not have been possible without them.</p><p><span style=\"color: rgb(192, 57, 43);\"><strong>References</strong></span></p><p>Davies J, Bukulatjpi S, Sharma S, Davis J and Johnston V. \"Only your blood can tell the story\" - a qualitative research study using semi-structured interviews to explore the hepatitis B related knowledge, perceptions and experiences of remote dwelling Indigenous Australians and their health care providers in northern Australia. BMC Public Health2014;14(1):1233.</p><p>Retrieved from&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-1233\">This Link</a></p><p>Davies J, Bukulatjpi S, Sharma S, Caldwell L, Johnston V and Davis J. Development of a Culturally Appropriate Bilingual Electronic App About Hepatitis B for Indigenous Australians: Towards Shared Understandings.2015;4(2):e70.&nbsp;</p><p>Retrieved from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.researchgate.net/publication/278042538_Development_of_a_Culturally_Appropriate_Bilingual_Electronic_App_About_Hepatitis_B_for_Indigenous_Australians_Towards_Shared_Understandings\">This Link</a></p><p></p><p>John Mathews Building (58)<br>Royal Darwin Hospital Campus Rocklands Drv,<br>Tiwi NT 0810 Australia<br>PO Box 41096<br>Casuarina NT 0811 Australia<br>Phone (08) 8946 8600<br>Website:<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.menzies.edu.au\">www.menzies.edu.au</a></p><p><strong>Thank you to all who contributed to the development of this app.</strong></p>"
+            },
+            {
+                "id": "7",
+                "languageId": "22",
+                "nativeName": "Yolŋu ",
+                "englishName": "Yolŋu ",
+                "content": ""
+            },
+            {
+                "id": "8",
+                "languageId": "23",
+                "nativeName": "Anindilyakwa",
+                "englishName": "Anindilyakwa",
+                "content": ""
+            },
+            {
+                "id": "9",
+                "languageId": "24",
+                "nativeName": "warlpiri",
+                "englishName": "warlpiri",
+                "content": ""
+            },
+            {
+                "id": "10",
+                "languageId": "25",
+                "nativeName": "Tiwi",
+                "englishName": "Tiwi",
+                "content": ""
+            },
+            {
+                "id": "11",
+                "languageId": "26",
+                "nativeName": "Kunwinjku",
+                "englishName": "Kunwinjku",
+                "content": ""
+            },
+            {
+                "id": "12",
+                "languageId": "27",
+                "nativeName": "Pitjantjatjara",
+                "englishName": "Pitjantjatjara",
+                "content": ""
+            },
+            {
+                "id": "13",
+                "languageId": "28",
+                "nativeName": "Burarra",
+                "englishName": "Burarra",
+                "content": ""
+            },
+            {
+                "id": "14",
+                "languageId": "29",
+                "nativeName": "Kriol",
+                "englishName": "Kriol",
+                "content": ""
+            },
+            {
+                "id": "15",
+                "languageId": "30",
+                "nativeName": "Wubuy",
+                "englishName": "Wubuy",
+                "content": ""
+            }
+        ],
+        "visitingMedicalService": {
+            "id": "1",
+            "title": "Visiting Medical Service",
+            "list": [
+                {
+                    "id": "3",
+                    "visitLocation": "Mataranka",
+                    "visitDateStart": "2026-05-22 00:00:00",
+                    "visitDateEnd": "2026-05-22 00:00:00",
+                    "visitStatus": 1,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 4861",
+                    "sort": 1
+                },
+                {
+                    "id": "4",
+                    "visitLocation": "Jilkminggan (Duck Creek)",
+                    "visitDateStart": "2026-05-22 00:00:00",
+                    "visitDateEnd": "2026-05-22 00:00:00",
+                    "visitStatus": 1,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 4833",
+                    "sort": 1
+                },
+                {
+                    "id": "5",
+                    "visitLocation": "Ramingining",
+                    "visitDateStart": "2026-05-25 00:00:00",
+                    "visitDateEnd": "2026-05-25 00:00:00",
+                    "visitStatus": 1,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8979 7923",
+                    "sort": 1
+                },
+                {
+                    "id": "6",
+                    "visitLocation": "Minyerri (Hodgson Downs)",
+                    "visitDateStart": "2026-06-02 00:00:00",
+                    "visitDateEnd": "2026-06-02 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 9959",
+                    "sort": 1
+                },
+                {
+                    "id": "7",
+                    "visitLocation": "Gunbalanya (Oenpelli)",
+                    "visitDateStart": "2026-06-03 00:00:00",
+                    "visitDateEnd": "2026-06-03 00:00:00",
+                    "visitStatus": 1,
+                    "region": "Top End",
+                    "contactPhone": "(08) 8979 0178",
+                    "sort": 1
+                },
+                {
+                    "id": "8",
+                    "visitLocation": "Gapuwiyak (Lake Evella)",
+                    "visitDateStart": "2026-06-04 00:00:00",
+                    "visitDateEnd": "2026-06-04 00:00:00",
+                    "visitStatus": 1,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 9150",
+                    "sort": 1
+                },
+                {
+                    "id": "9",
+                    "visitLocation": "Kalkarindji (Kalkgurung near Wave Hill)",
+                    "visitDateStart": "2026-06-10 00:00:00",
+                    "visitDateEnd": "2026-06-10 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 0785",
+                    "sort": 1
+                },
+                {
+                    "id": "10",
+                    "visitLocation": "Lajamanu (Hooker Creek)",
+                    "visitDateStart": "2026-06-11 00:00:00",
+                    "visitDateEnd": "2026-06-11 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 0870",
+                    "sort": 1
+                },
+                {
+                    "id": "11",
+                    "visitLocation": "Nhulunbuy (Gove)",
+                    "visitDateStart": "2026-06-18 00:00:00",
+                    "visitDateEnd": "2026-06-18 00:00:00",
+                    "visitStatus": 1,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 0211",
+                    "sort": 1
+                },
+                {
+                    "id": "12",
+                    "visitLocation": "Nhulunbuy (Gove)",
+                    "visitDateStart": "2026-06-19 00:00:00",
+                    "visitDateEnd": "2026-06-19 00:00:00",
+                    "visitStatus": 1,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8939 1900",
+                    "sort": 1
+                },
+                {
+                    "id": "13",
+                    "visitLocation": "Milingimbi (Yurrwi)",
+                    "visitDateStart": "2026-07-15 00:00:00",
+                    "visitDateEnd": "2026-07-15 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 9903",
+                    "sort": 1
+                },
+                {
+                    "id": "14",
+                    "visitLocation": "Gapuwiyak (Lake Evella)",
+                    "visitDateStart": "2026-07-22 00:00:00",
+                    "visitDateEnd": "2026-07-22 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 9150",
+                    "sort": 1
+                },
+                {
+                    "id": "15",
+                    "visitLocation": "Wadeye",
+                    "visitDateStart": "2026-07-29 00:00:00",
+                    "visitDateEnd": "2026-07-29 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Top End",
+                    "contactPhone": "(08) 8978 2360",
+                    "sort": 1
+                },
+                {
+                    "id": "16",
+                    "visitLocation": "Galiwinku (Elcho Island)",
+                    "visitDateStart": "2026-08-12 00:00:00",
+                    "visitDateEnd": "2026-08-13 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8970 5800",
+                    "sort": 1
+                },
+                {
+                    "id": "17",
+                    "visitLocation": "Katherine",
+                    "visitDateStart": "2026-08-19 00:00:00",
+                    "visitDateEnd": "2026-08-19 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8971 0044",
+                    "sort": 1
+                },
+                {
+                    "id": "18",
+                    "visitLocation": "Katherine",
+                    "visitDateStart": "2026-08-20 00:00:00",
+                    "visitDateEnd": "2026-08-20 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8973 9211",
+                    "sort": 1
+                },
+                {
+                    "id": "19",
+                    "visitLocation": "Maningrida",
+                    "visitDateStart": "2026-08-24 00:00:00",
+                    "visitDateEnd": "2026-08-25 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Top End",
+                    "contactPhone": "(08) 8979 5930",
+                    "sort": 1
+                },
+                {
+                    "id": "20",
+                    "visitLocation": "Borroloola",
+                    "visitDateStart": "2026-09-01 00:00:00",
+                    "visitDateEnd": "2026-09-02 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 8757",
+                    "sort": 1
+                },
+                {
+                    "id": "21",
+                    "visitLocation": "Nhulunbuy (Gove)",
+                    "visitDateStart": "2026-09-03 00:00:00",
+                    "visitDateEnd": "2026-09-03 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 0211",
+                    "sort": 1
+                },
+                {
+                    "id": "22",
+                    "visitLocation": "Nhulunbuy (Gove)",
+                    "visitDateStart": "2026-09-04 00:00:00",
+                    "visitDateEnd": "2026-09-04 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8939 1900",
+                    "sort": 1
+                },
+                {
+                    "id": "23",
+                    "visitLocation": "Kalkarindji (Kalkgurung near Wave Hill)",
+                    "visitDateStart": "2026-09-09 00:00:00",
+                    "visitDateEnd": "2026-09-10 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 0785",
+                    "sort": 1
+                },
+                {
+                    "id": "24",
+                    "visitLocation": "Numbulwar (Rose River)",
+                    "visitDateStart": "2026-09-10 00:00:00",
+                    "visitDateEnd": "2026-09-10 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 4670",
+                    "sort": 1
+                },
+                {
+                    "id": "25",
+                    "visitLocation": "Wurrumiyanga (Nguiu)",
+                    "visitDateStart": "2026-09-16 00:00:00",
+                    "visitDateEnd": "2026-09-16 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Top End",
+                    "contactPhone": "(08) 8978 3984",
+                    "sort": 1
+                },
+                {
+                    "id": "26",
+                    "visitLocation": "Wadeye",
+                    "visitDateStart": "2026-10-21 00:00:00",
+                    "visitDateEnd": "2026-10-21 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Top End",
+                    "contactPhone": "(08) 8978 2360",
+                    "sort": 1
+                },
+                {
+                    "id": "27",
+                    "visitLocation": "Milingimbi (Yurrwi)",
+                    "visitDateStart": "2026-11-04 00:00:00",
+                    "visitDateEnd": "2026-11-11 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 9903",
+                    "sort": 1
+                },
+                {
+                    "id": "28",
+                    "visitLocation": "Kalkarindji (Kalkgurung near Wave Hill)",
+                    "visitDateStart": "2026-11-11 00:00:00",
+                    "visitDateEnd": "2026-11-12 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 0785",
+                    "sort": 1
+                },
+                {
+                    "id": "29",
+                    "visitLocation": "Gapuwiyak (Lake Evella)",
+                    "visitDateStart": "2026-11-18 00:00:00",
+                    "visitDateEnd": "2026-11-18 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 9150",
+                    "sort": 1
+                },
+                {
+                    "id": "30",
+                    "visitLocation": "Maningrida",
+                    "visitDateStart": "2026-11-19 00:00:00",
+                    "visitDateEnd": "2026-11-20 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Top End",
+                    "contactPhone": "(08) 8979 5930",
+                    "sort": 1
+                },
+                {
+                    "id": "31",
+                    "visitLocation": "Ngukurr (Roper River)",
+                    "visitDateStart": "2026-12-01 00:00:00",
+                    "visitDateEnd": "2026-12-02 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8977 2800",
+                    "sort": 1
+                },
+                {
+                    "id": "32",
+                    "visitLocation": "Galiwinku (Elcho Island)",
+                    "visitDateStart": "2026-12-02 00:00:00",
+                    "visitDateEnd": "2026-12-03 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8970 5800",
+                    "sort": 1
+                },
+                {
+                    "id": "33",
+                    "visitLocation": "Mataranka",
+                    "visitDateStart": "2026-12-04 00:00:00",
+                    "visitDateEnd": "2026-12-04 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 4861",
+                    "sort": 1
+                },
+                {
+                    "id": "34",
+                    "visitLocation": "Jilkminggan (Duck Creek)",
+                    "visitDateStart": "2026-12-04 00:00:00",
+                    "visitDateEnd": "2026-12-04 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 4833",
+                    "sort": 1
+                },
+                {
+                    "id": "35",
+                    "visitLocation": "Katherine",
+                    "visitDateStart": "2026-12-09 00:00:00",
+                    "visitDateEnd": "2026-12-09 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8973 9211",
+                    "sort": 1
+                },
+                {
+                    "id": "36",
+                    "visitLocation": "Beswick (Wugularr)",
+                    "visitDateStart": "2026-12-10 00:00:00",
+                    "visitDateEnd": "2026-12-10 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 4527, (08) 8975 4348",
+                    "sort": 1
+                },
+                {
+                    "id": "37",
+                    "visitLocation": "Barunga (Bamyili)",
+                    "visitDateStart": "2026-12-11 00:00:00",
+                    "visitDateEnd": "2026-12-11 00:00:00",
+                    "visitStatus": 0,
+                    "region": "Big Rivers",
+                    "contactPhone": "(08) 8975 4164, (08) 8975 4509",
+                    "sort": 1
+                },
+                {
+                    "id": "38",
+                    "visitLocation": "Nhulunbuy (Gove)",
+                    "visitDateStart": "2026-12-17 00:00:00",
+                    "visitDateEnd": "2026-12-17 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8987 0211",
+                    "sort": 1
+                },
+                {
+                    "id": "39",
+                    "visitLocation": "Nhulunbuy (Gove)",
+                    "visitDateStart": "2026-12-18 00:00:00",
+                    "visitDateEnd": "2026-12-18 00:00:00",
+                    "visitStatus": 0,
+                    "region": "East Arnhem",
+                    "contactPhone": "(08) 8939 1900",
+                    "sort": 1
+                }
+            ]
+        }
+    },
+    "success": true
+}
