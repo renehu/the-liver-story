@@ -1,10 +1,15 @@
 # the-liver-story
-Hep B
+My quick notes for Hep B upgrade and data transfer
 
-### input form prompt
-直接读 /mnt/data 里的 JSON 文件，并按"sub_chapter_id"=== 26 + "identifier"==="how_to_take_your_tablets"抽取内容
+### auto input form prompt
+Directly read the JSON files and extract the content matching:
 
-### MP3 audio and MP4 video
+sub_chapter_id === 26
+identifier === "how_to_take_your_tablets"
+
+Do not generate or infer any content. Use only the data found in the JSON files.
+
+### For MP3 audio and MP4 video
 It's a browser security restriction
 Since browser security prevents fully automated file uploads, 
 I used Node.js to reorganise the audio files into a more user-friendly folder structure and renamed them with clear identifiers. 
