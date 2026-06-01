@@ -12,10 +12,15 @@ new-maps-items/
 # Migration data
 response.json
 mapping.json
-old-lang-*.json
 download-failed.json
 download-mp4-failed.json
 export-missing-mp3.json
+
+# Ignore all old language files
+old-lang-*.json
+
+# But keep this one
+!old-lang-id-map.json
 
 # html page
 htmlPageForm.html

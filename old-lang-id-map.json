@@ -1,0 +1,57 @@
+{
+    "error": [],
+    "data": {
+        "list": [
+            {
+                "id": 1,
+                "language": "English"
+            },
+            {
+                "id": 2,
+                "language": "Yol\u014bu"
+            },
+            {
+                "id": 3,
+                "language": "Anindilyakwa"
+            },
+            {
+                "id": 7,
+                "language": "Warlpiri"
+            },
+            {
+                "id": 9,
+                "language": "Tiwi"
+            },
+            {
+                "id": 10,
+                "language": "Arrernte"
+            },
+            {
+                "id": 11,
+                "language": "Kunwinjku"
+            },
+            {
+                "id": 12,
+                "language": "Pitjantjatjara"
+            },
+            {
+                "id": 13,
+                "language": "Burarra"
+            },
+            {
+                "id": 14,
+                "language": "Kriol"
+            },
+            {
+                "id": 15,
+                "language": "Wubuy"
+            },
+            {
+                "id": 16,
+                "language": "Murrinh Patha"
+            }
+        ],
+        "message": "success"
+    },
+    "success": 1
+}
