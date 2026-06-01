@@ -20,9 +20,14 @@ export-missing-mp3.json
 # html page
 htmlPageForm.html
 
+# new request
+new-request.json
+
 # new response
 new-response.json
 new-response-slide-id-11.json
+
+
 
 # Temp files
 temp/
