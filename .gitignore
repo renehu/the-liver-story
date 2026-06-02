@@ -8,14 +8,14 @@ damaged_liver_mp4
 
 # Generated exports
 exports/
-new-maps-items/
+# new-maps-items/
 
 # Migration data
 response.json
 mapping.json
-download-failed.json
-download-mp4-failed.json
-export-missing-mp3.json
+# download-failed.json
+# download-mp4-failed.json
+# export-missing-mp3.json
 
 # Ignore all old language files
 #old-lang-*.json
