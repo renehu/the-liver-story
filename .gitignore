@@ -4,6 +4,7 @@ node_modules/
 # Downloaded media
 downloads/
 download-MP4/
+damaged_liver_mp4
 
 # Generated exports
 exports/
@@ -17,10 +18,10 @@ download-mp4-failed.json
 export-missing-mp3.json
 
 # Ignore all old language files
-old-lang-*.json
+#old-lang-*.json
 
 # But keep this one
-!old-lang-id-map.json
+#!old-lang-id-map.json
 
 # html page
 htmlPageForm.html
