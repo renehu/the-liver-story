@@ -1,6 +1,11 @@
 # the-liver-story
 My quick notes for Hep B upgrade and data transfer
 
+A personal reference project used to preserve code for future development.
+
+The repository mainly serves as a code reference for multilingual content implementation, particularly for Aboriginal language matching and integration.
+
+
 ## Auto fill title and content
 Run run.js on Chrome console and input will be automatically filled out.
 
